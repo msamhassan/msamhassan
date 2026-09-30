@@ -4,6 +4,7 @@
 💡 **Bridging Data Engineering, Analytics, and Business to Turn Raw Data into Decision-Ready Insights**  
 📊 **I build governed pipelines, semantic models, and dashboards that cut reporting time and earn stakeholder trust.**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moh23)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/msamhassan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadshas2324@gmail.com)
 ![Location](https://img.shields.io/badge/Mississauga,_ON-Canada-red?style=for-the-badge)
@@ -119,6 +120,7 @@ Currently expanding into **AI-augmented data engineering** — Databricks, dbt, 
 ## 📣 Let's Connect!
 
 📩 **Email:** <muhammadshas2324@gmail.com>  
+🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/moh23)  
 📁 **GitHub:** [GitHub](https://github.com/msamhassan)
 
 ---
